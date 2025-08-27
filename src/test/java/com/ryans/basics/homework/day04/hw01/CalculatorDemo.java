@@ -1,6 +1,6 @@
 package com.ryans.basics.homework.day04.hw01;
 
-public class Demo {
+public class CalculatorDemo {
     public static void main(String[] args) {
         Calculator cal = new Calculator();
         cal.add(1, 3);
