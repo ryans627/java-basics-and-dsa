@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="商城" >
+    <test name="登录模块">
+        <classes>
+            <class name="com.ryans.basics.homework.day10.testng.LoginTest" />
+        </classes>
+    </test>
+
+    <test name="注册模块">
+        <classes>
+            <class name="com.ryans.basics.homework.day10.testng.RegisterTest" />
+        </classes>
+    </test>
+</suite>
