@@ -3,7 +3,7 @@
 <suite name="商城" >
     <test name="订单模块">
         <classes>
-            <class name="com.ryans.basics.lectures.day10.testng.TestNGParameterDemo" />
+            <class name="com.ryans.basics.lectures.day11.parametrization.TestNGParameterDemo" />
             <parameter name="username1" value="zhangsan"></parameter>
             <parameter name="password1" value="123456"></parameter>
         </classes>

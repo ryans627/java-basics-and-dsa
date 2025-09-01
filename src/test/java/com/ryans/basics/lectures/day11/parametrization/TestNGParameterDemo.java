@@ -1,4 +1,4 @@
-package com.ryans.basics.lectures.day10.testng;
+package com.ryans.basics.lectures.day11.parametrization;
 
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
