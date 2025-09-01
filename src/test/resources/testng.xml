@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="商城" >
+    <test name="订单模块">
+        <classes>
+            <class name="com.ryans.basics.lectures.day10.testng.TestNGXML2" />
+            <class name="com.ryans.basics.lectures.day10.testng.TestNGXML1" />
+        </classes>
+    </test>
+
+    <test name="购物车模块">
+        <classes>
+            <class name="com.ryans.basics.lectures.day10.testng.TestNGXML3" />
+        </classes>
+    </test>
+</suite>
